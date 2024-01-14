@@ -1,0 +1,9 @@
+#editorContainer {
+  border: 1px solid #646cffaa;
+  padding: 0 12px;
+}
+
+#editorContainer .ProseMirror {
+  outline: none;
+  caret-color: #646cffaa;
+}
